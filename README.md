@@ -1,1 +1,1 @@
-# Projects-for-freeCodeCamp-machine-learning-Certificate
+# Projects for freeCodeCamp machine learning Certificate
